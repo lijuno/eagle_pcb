@@ -5,6 +5,8 @@ This repo hosts my self-drawn Eagle libraries. Available libraries:
 
 ### Op amps
 
+In "my-ti.lbr" and "my-linear.lbr"
+
 * LT1677
 
 * LT1028
@@ -14,3 +16,7 @@ This repo hosts my self-drawn Eagle libraries. Available libraries:
 * LT1679 (quad)
   
 * OPA227, OPA2227 (dual), OPA4227 (quad)
+
+### Miscellaneous components
+
+* 8-pin 4-position DIP switch (misc.lbr)
