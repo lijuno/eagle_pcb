@@ -313,7 +313,7 @@ Added by ll3kx</description>
 </devices>
 </deviceset>
 <deviceset name="LT1793">
-<description>&lt;p&gt;LT1793 op amp, 8PDIP to surface mount package&lt;/p&gt;</description>
+<description>&lt;p&gt;LT1793 op amp, surface mount, or 8PDIP to surface mount package&lt;/p&gt;</description>
 <gates>
 <gate name="G$1" symbol="LT1793" x="0" y="0"/>
 </gates>
