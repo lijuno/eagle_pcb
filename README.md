@@ -17,6 +17,8 @@ In "my-ti.lbr" and "my-linear.lbr"
   
 * OPA227, OPA2227 (dual), OPA4227 (quad)
 
+* LOG114 (QFN-16)
+
 ### Miscellaneous components
 
 * 8-pin 4-position DIP switch (misc.lbr)
